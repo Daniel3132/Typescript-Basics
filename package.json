@@ -1,0 +1,21 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel3132/laughing-winner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel3132/laughing-winner/issues"
+  },
+  "homepage": "https://github.com/Daniel3132/laughing-winner#readme",
+  "description": ""
+}
